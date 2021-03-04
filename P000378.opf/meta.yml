@@ -1,22 +1,24 @@
-id: opecha:P000378
+id: P000378
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14473
   title: འཇམ་དཔལ་གཤིན་རྗེའི་གཤེད་ཁྲོ་ཆུ་དུག་སྡོང་ནག་པོའི་ཆོས་སྐོར།
-  volume:
+  author: ''
+  volumes:
     161b28f8e8614c478e037c7647315af4:
       image_group_id: I1KG14477
       title: Volume 1 of 'jam dpal gshin rje'i gshed khro chu dug sdong nag po'i chos
         skor/
       volume_number: 1
       total_pages: 568
+      base_file: v001.txt
     93921bc6519146679f98d4bc4201b89e:
       image_group_id: I1KG14478
       title: Volume 2 of 'jam dpal gshin rje'i gshed khro chu dug sdong nag po'i chos
         skor/
       volume_number: 2
       total_pages: 562
-  author: ''
+      base_file: v002.txt
 ebook_metadata:
   title: འཇམ་དཔལ་གཤིན་རྗེའི་གཤེད་ཁྲོ་ཆུ་དུག་སྡོང་ནག་པོའི་ཆོས་སྐོར།
   author: ''
