@@ -1,5 +1,7 @@
 id: P000378
 initial_creation_type: ocr
+created_at: 17/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG14473
   title: འཇམ་དཔལ་གཤིན་རྗེའི་གཤེད་ཁྲོ་ཆུ་དུག་སྡོང་ནག་པོའི་ཆོས་སྐོར།
@@ -19,10 +21,3 @@ source_metadata:
       volume_number: 2
       total_pages: 562
       base_file: v002.txt
-ebook_metadata:
-  title: འཇམ་དཔལ་གཤིན་རྗེའི་གཤེད་ཁྲོ་ཆུ་དུག་སྡོང་ནག་པོའི་ཆོས་སྐོར།
-  author: ''
-  sku: P000378
-  cover: cover.jpg
-  layers:
-  - pagination
