@@ -1,0 +1,3346 @@
+id: 3f53c0106e404f0cb300b4b12e2230d9
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  d0fce91097ba4e94a9fd29d7c762b2ab:
+    span:
+      start: 0
+      end: 767
+    imgnum: 1
+    reference: I1KG144780001.tif
+  d2f0229d57bd43b1a2e00d46c061e75e:
+    span:
+      start: 768
+      end: 842
+    imgnum: 3
+    reference: I1KG144780003.jpg
+  ae0a0452bd274ad9a23ee68e935130f5:
+    span:
+      start: 843
+      end: 1346
+    imgnum: 5
+    reference: I1KG144780005.tif
+  5f0b5ab743514870b622d072a2251058:
+    span:
+      start: 1347
+      end: 1551
+    imgnum: 6
+    reference: I1KG144780006.tif
+  2095f04a5cef43ac850812526e7aa243:
+    span:
+      start: 1552
+      end: 2096
+    imgnum: 7
+    reference: I1KG144780007.tif
+  9c477e2cecb247099d6c9816e2928504:
+    span:
+      start: 2097
+      end: 2674
+    imgnum: 8
+    reference: I1KG144780008.tif
+  0e473c9ae1494c2aaeb3198442391835:
+    span:
+      start: 2675
+      end: 3330
+    imgnum: 9
+    reference: I1KG144780009.tif
+  41fe41d5c4294116ab7bded4b553d5d6:
+    span:
+      start: 3331
+      end: 3898
+    imgnum: 10
+    reference: I1KG144780010.tif
+  5cd94fa64fa54646986ffc82fcf0a33b:
+    span:
+      start: 3899
+      end: 4074
+    imgnum: 11
+    reference: I1KG144780011.tif
+  5d8e725796a34960899f7f3e1880905c:
+    span:
+      start: 4075
+      end: 4657
+    imgnum: 12
+    reference: I1KG144780012.tif
+  ed20eb7865b949dfb5ecfc07c24e9028:
+    span:
+      start: 4658
+      end: 5273
+    imgnum: 13
+    reference: I1KG144780013.tif
+  a41e606752184df3b3d21f0bc4516521:
+    span:
+      start: 5274
+      end: 5898
+    imgnum: 14
+    reference: I1KG144780014.tif
+  e103bb80b6b94eae8f688e8b7a9303da:
+    span:
+      start: 5899
+      end: 6108
+    imgnum: 15
+    reference: I1KG144780015.tif
+  cc702fdb0ec64d95aac7489f1f309ede:
+    span:
+      start: 6109
+      end: 6528
+    imgnum: 16
+    reference: I1KG144780016.tif
+  7ee3858c731644cf9d865f2f6f4ffc01:
+    span:
+      start: 6529
+      end: 6905
+    imgnum: 17
+    reference: I1KG144780017.tif
+  cf1e6eb38c2840c5b53aae84196153aa:
+    span:
+      start: 6906
+      end: 7373
+    imgnum: 18
+    reference: I1KG144780018.tif
+  9a55edf9da694f949e109569eb7fb2a3:
+    span:
+      start: 7374
+      end: 7936
+    imgnum: 19
+    reference: I1KG144780019.tif
+  7bc9a18fe41e4f0ba0d34bde70806cb3:
+    span:
+      start: 7937
+      end: 8590
+    imgnum: 20
+    reference: I1KG144780020.tif
+  f5b0519fc0c546ce81a5e743d322f074:
+    span:
+      start: 8591
+      end: 9262
+    imgnum: 21
+    reference: I1KG144780021.tif
+  af99e005746d434bb06ec91b919cec1b:
+    span:
+      start: 9263
+      end: 9803
+    imgnum: 22
+    reference: I1KG144780022.tif
+  d0619ff2f6df4b04bc49c80c0403cfd6:
+    span:
+      start: 9804
+      end: 10457
+    imgnum: 23
+    reference: I1KG144780023.tif
+  10f84b9187db49d5b525ef743d834516:
+    span:
+      start: 10458
+      end: 11132
+    imgnum: 24
+    reference: I1KG144780024.tif
+  8a9350bfd8c84d8f8aa508ae64e4f84a:
+    span:
+      start: 11133
+      end: 11735
+    imgnum: 25
+    reference: I1KG144780025.tif
+  c58d4a2014b34827b67eb5d43b7aefde:
+    span:
+      start: 11736
+      end: 12352
+    imgnum: 26
+    reference: I1KG144780026.tif
+  a3b17522a17d4190bb4127787f5b2923:
+    span:
+      start: 12353
+      end: 13031
+    imgnum: 27
+    reference: I1KG144780027.tif
+  6f9b87f543874b99947ac909fe6ea868:
+    span:
+      start: 13032
+      end: 13685
+    imgnum: 28
+    reference: I1KG144780028.tif
+  4a5736a232d841d68c79bd6383032b7d:
+    span:
+      start: 13686
+      end: 14347
+    imgnum: 29
+    reference: I1KG144780029.tif
+  97cd0e7d608d4963ac6f8d453cfda280:
+    span:
+      start: 14348
+      end: 14994
+    imgnum: 30
+    reference: I1KG144780030.tif
+  eb8e19448e3446d0bfb6ffc01ffb4175:
+    span:
+      start: 14995
+      end: 15552
+    imgnum: 31
+    reference: I1KG144780031.tif
+  2a1776f42f5b4a1da4e1e3ee85173f5d:
+    span:
+      start: 15553
+      end: 16139
+    imgnum: 32
+    reference: I1KG144780032.tif
+  125cf15e6e1a4e8788246a73641a8123:
+    span:
+      start: 16140
+      end: 16897
+    imgnum: 33
+    reference: I1KG144780033.tif
+  7190796f42ad4515a2f92095b1bb73d1:
+    span:
+      start: 16898
+      end: 17457
+    imgnum: 34
+    reference: I1KG144780034.tif
+  0a5f7d13b9e24199a35fbf493e0ba730:
+    span:
+      start: 17458
+      end: 18044
+    imgnum: 35
+    reference: I1KG144780035.tif
+  e14d2b178c524ebe84ff4d0c06cd482b:
+    span:
+      start: 18045
+      end: 18630
+    imgnum: 36
+    reference: I1KG144780036.tif
+  8d7c97f47006456a82df74aa3aa10e13:
+    span:
+      start: 18631
+      end: 19183
+    imgnum: 37
+    reference: I1KG144780037.tif
+  6db93c29877b4c7292b474882296825b:
+    span:
+      start: 19184
+      end: 19867
+    imgnum: 38
+    reference: I1KG144780038.tif
+  f44d4f40c429436c9d6ea8098f1511be:
+    span:
+      start: 19868
+      end: 20428
+    imgnum: 39
+    reference: I1KG144780039.tif
+  97b8e6c52cde446fbe19a2ef07720936:
+    span:
+      start: 20429
+      end: 21011
+    imgnum: 40
+    reference: I1KG144780040.tif
+  c9981f1e4a4544188ec165c6ee099a09:
+    span:
+      start: 21012
+      end: 21591
+    imgnum: 41
+    reference: I1KG144780041.tif
+  384490a8c0d14d078e1f18e66d614acb:
+    span:
+      start: 21592
+      end: 22163
+    imgnum: 42
+    reference: I1KG144780042.tif
+  a19e0ed172f347da982e6f604c821e2c:
+    span:
+      start: 22164
+      end: 22759
+    imgnum: 43
+    reference: I1KG144780043.tif
+  0394fa2b24f74a1cb21da9f20d1560b4:
+    span:
+      start: 22760
+      end: 23357
+    imgnum: 44
+    reference: I1KG144780044.tif
+  3314ce7802ba4587b39c0910d0a1d27d:
+    span:
+      start: 23358
+      end: 24001
+    imgnum: 45
+    reference: I1KG144780045.tif
+  62007b302e1a409ab798b1d775ce1d13:
+    span:
+      start: 24002
+      end: 25029
+    imgnum: 46
+    reference: I1KG144780046.tif
+  6089fe95d79a43f7a23abd0b50268ef5:
+    span:
+      start: 25030
+      end: 26154
+    imgnum: 47
+    reference: I1KG144780047.tif
+  070c0ded27944b35a47aa0f8f59a3af4:
+    span:
+      start: 26155
+      end: 26476
+    imgnum: 48
+    reference: I1KG144780048.tif
+  72ed33e94df44d8e96a1ee16081f9c39:
+    span:
+      start: 26477
+      end: 26663
+    imgnum: 49
+    reference: I1KG144780049.tif
+  ce7b4476f9494484b22bf6ba1c6fba3a:
+    span:
+      start: 26664
+      end: 27121
+    imgnum: 50
+    reference: I1KG144780050.tif
+  5c182532e9b84df98c8a447651320a79:
+    span:
+      start: 27122
+      end: 27561
+    imgnum: 51
+    reference: I1KG144780051.tif
+  53b89777247c4891b02cddaa59f29421:
+    span:
+      start: 27562
+      end: 28102
+    imgnum: 52
+    reference: I1KG144780052.tif
+  62fa309866554e48a2c90ddb8dd3b844:
+    span:
+      start: 28103
+      end: 28743
+    imgnum: 53
+    reference: I1KG144780053.tif
+  5bb9ab519e604de08cb3104b554610e5:
+    span:
+      start: 28744
+      end: 29356
+    imgnum: 54
+    reference: I1KG144780054.tif
+  5a399404025c4199b847efebc1012a5e:
+    span:
+      start: 29357
+      end: 30050
+    imgnum: 55
+    reference: I1KG144780055.tif
+  93e94cbf5810481b9c5970a45566a7a6:
+    span:
+      start: 30051
+      end: 30692
+    imgnum: 56
+    reference: I1KG144780056.tif
+  b734ed70556c4582800dfd95c96f5d77:
+    span:
+      start: 30693
+      end: 31377
+    imgnum: 57
+    reference: I1KG144780057.tif
+  8d035a2322cb47ef997fbd84234413e8:
+    span:
+      start: 31378
+      end: 32051
+    imgnum: 58
+    reference: I1KG144780058.tif
+  db771582db5341d2bd4ed5592778c05c:
+    span:
+      start: 32052
+      end: 32762
+    imgnum: 59
+    reference: I1KG144780059.tif
+  440a1fefa7564b20a8b1d0236c12496f:
+    span:
+      start: 32763
+      end: 33435
+    imgnum: 60
+    reference: I1KG144780060.tif
+  2d051cc01b9f4088a3e9ee7d0322cc14:
+    span:
+      start: 33436
+      end: 34064
+    imgnum: 61
+    reference: I1KG144780061.tif
+  3b864098233a415993cb2f76abfc85c3:
+    span:
+      start: 34065
+      end: 34685
+    imgnum: 62
+    reference: I1KG144780062.tif
+  ee2f6d94ecab4314951375b9d80200a3:
+    span:
+      start: 34686
+      end: 35326
+    imgnum: 63
+    reference: I1KG144780063.tif
+  51b7adfd74184ea5ad0b97cab19f7ccb:
+    span:
+      start: 35327
+      end: 35964
+    imgnum: 64
+    reference: I1KG144780064.tif
+  5cb291210b934b58b098f24b2d9a6b1c:
+    span:
+      start: 35965
+      end: 36588
+    imgnum: 65
+    reference: I1KG144780065.tif
+  a875ddbc8b9b4929a68b6f3e8e507e71:
+    span:
+      start: 36589
+      end: 37159
+    imgnum: 66
+    reference: I1KG144780066.tif
+  0a0bb60a52f04941a10bd2faa54cdd8a:
+    span:
+      start: 37160
+      end: 37768
+    imgnum: 67
+    reference: I1KG144780067.tif
+  0fbc2dd46c944e36abf25c23e37e4e36:
+    span:
+      start: 37769
+      end: 38277
+    imgnum: 68
+    reference: I1KG144780068.tif
+  71b0e0644f554033872edca2f2c0d4cc:
+    span:
+      start: 38278
+      end: 38829
+    imgnum: 69
+    reference: I1KG144780069.tif
+  0c05aae05f264128adfc706286ffb415:
+    span:
+      start: 38830
+      end: 39051
+    imgnum: 70
+    reference: I1KG144780070.tif
+  82bab95b842c49149918d91578849340:
+    span:
+      start: 39052
+      end: 39504
+    imgnum: 71
+    reference: I1KG144780071.tif
+  7a036d67c183425fa18ceaa921342fe3:
+    span:
+      start: 39505
+      end: 40072
+    imgnum: 72
+    reference: I1KG144780072.tif
+  cb8c7940a61948a7ab51d7b3da9758f1:
+    span:
+      start: 40073
+      end: 40198
+    imgnum: 73
+    reference: I1KG144780073.tif
+  7418d2b9b1704ab8bbe509ef37802cce:
+    span:
+      start: 40199
+      end: 40578
+    imgnum: 74
+    reference: I1KG144780074.tif
+  2a81c353e7b742a990af0b6097640599:
+    span:
+      start: 40579
+      end: 41100
+    imgnum: 75
+    reference: I1KG144780075.tif
+  03cd86304f7d4157aa135d4b4ee3738c:
+    span:
+      start: 41101
+      end: 41713
+    imgnum: 76
+    reference: I1KG144780076.tif
+  c8f003607b6042bbbccda623ca4df446:
+    span:
+      start: 41714
+      end: 42409
+    imgnum: 77
+    reference: I1KG144780077.tif
+  0153f9fa89ad44969fcf3244c82cb940:
+    span:
+      start: 42410
+      end: 43083
+    imgnum: 78
+    reference: I1KG144780078.tif
+  6c54dd2100f249d8a3793fcbe9f6a8b7:
+    span:
+      start: 43084
+      end: 43688
+    imgnum: 79
+    reference: I1KG144780079.tif
+  73e147af5d914ee8bd2c9e955d220e7b:
+    span:
+      start: 43689
+      end: 44315
+    imgnum: 80
+    reference: I1KG144780080.tif
+  6a7abc09cf084391838937758423dcc0:
+    span:
+      start: 44316
+      end: 44918
+    imgnum: 81
+    reference: I1KG144780081.tif
+  dd95835559434effaf6d505581f514e2:
+    span:
+      start: 44919
+      end: 45495
+    imgnum: 82
+    reference: I1KG144780082.tif
+  04bc107bcfe542a2bff28619f61a40fe:
+    span:
+      start: 45496
+      end: 46112
+    imgnum: 83
+    reference: I1KG144780083.tif
+  150a4505c47e4477b895b7a1f8d9d1a2:
+    span:
+      start: 46113
+      end: 46769
+    imgnum: 84
+    reference: I1KG144780084.tif
+  c47a5ba97b3c43bbbdeacdaa851da8be:
+    span:
+      start: 46770
+      end: 47508
+    imgnum: 85
+    reference: I1KG144780085.tif
+  8d3a973a27ea49c789091baeb4014607:
+    span:
+      start: 47509
+      end: 48198
+    imgnum: 86
+    reference: I1KG144780086.tif
+  d413ca96c15a4047bb04ebcb9c5f5c96:
+    span:
+      start: 48199
+      end: 48837
+    imgnum: 87
+    reference: I1KG144780087.tif
+  9a8eda0f6b0845a1b242e3189c8156e9:
+    span:
+      start: 48838
+      end: 49568
+    imgnum: 88
+    reference: I1KG144780088.tif
+  a186c8afc5cc4dc4be573ecc21f8287d:
+    span:
+      start: 49569
+      end: 50252
+    imgnum: 89
+    reference: I1KG144780089.tif
+  e992e0bd35b341af8bf8668658a64bbc:
+    span:
+      start: 50253
+      end: 50963
+    imgnum: 90
+    reference: I1KG144780090.tif
+  075a7ce8addf4ffdbd7b725cb2ed5072:
+    span:
+      start: 50964
+      end: 51611
+    imgnum: 91
+    reference: I1KG144780091.tif
+  1b48b142fc074387bc23b0aac290b7eb:
+    span:
+      start: 51612
+      end: 52292
+    imgnum: 92
+    reference: I1KG144780092.tif
+  05338d8c9a894d1a9c7f3ed41ed2f96e:
+    span:
+      start: 52293
+      end: 53042
+    imgnum: 93
+    reference: I1KG144780093.tif
+  f3a1d1de626b4c59bc2cadb6e241f614:
+    span:
+      start: 53043
+      end: 53741
+    imgnum: 94
+    reference: I1KG144780094.tif
+  a9b9fdbee73348bc99e39fe634a3a2ba:
+    span:
+      start: 53742
+      end: 54398
+    imgnum: 95
+    reference: I1KG144780095.tif
+  cbfc61b3f6cc4680996911e415104655:
+    span:
+      start: 54399
+      end: 54967
+    imgnum: 96
+    reference: I1KG144780096.tif
+  632de8d0d38a4f128f9bad7a794dd94d:
+    span:
+      start: 54968
+      end: 55622
+    imgnum: 97
+    reference: I1KG144780097.tif
+  01a37643553f42df942791a236afca76:
+    span:
+      start: 55623
+      end: 56272
+    imgnum: 98
+    reference: I1KG144780098.tif
+  1ab44d6afb364a2fb8bd9082d2480008:
+    span:
+      start: 56273
+      end: 56946
+    imgnum: 99
+    reference: I1KG144780099.tif
+  4e8307c3a14e46a6a6600211d0c5a166:
+    span:
+      start: 56947
+      end: 57607
+    imgnum: 100
+    reference: I1KG144780100.tif
+  b3c29367896246798db8a75a026e0c7e:
+    span:
+      start: 57608
+      end: 58246
+    imgnum: 101
+    reference: I1KG144780101.tif
+  f3bbd7e743f54f62a23fad404bafe3f3:
+    span:
+      start: 58247
+      end: 58806
+    imgnum: 102
+    reference: I1KG144780102.tif
+  4c90ab2b0ed148c29a04af9fbc4dfc2a:
+    span:
+      start: 58807
+      end: 59458
+    imgnum: 103
+    reference: I1KG144780103.tif
+  d662a0d2b51c4b34bd3a8c2a977bf977:
+    span:
+      start: 59459
+      end: 60012
+    imgnum: 104
+    reference: I1KG144780104.tif
+  dbe18beeaa424e75ade14e4a8fff2e47:
+    span:
+      start: 60013
+      end: 60611
+    imgnum: 105
+    reference: I1KG144780105.tif
+  3289b3963bd845c7952d83042563bda5:
+    span:
+      start: 60612
+      end: 61050
+    imgnum: 106
+    reference: I1KG144780106.tif
+  7ad574ff99f24b668a078ef3e51a7e01:
+    span:
+      start: 61051
+      end: 61667
+    imgnum: 107
+    reference: I1KG144780107.tif
+  2809bf9e92c34dc4b4b812371b40cd4a:
+    span:
+      start: 61668
+      end: 62430
+    imgnum: 108
+    reference: I1KG144780108.tif
+  39e6a26a8cb344f39db1122237699a13:
+    span:
+      start: 62431
+      end: 62882
+    imgnum: 109
+    reference: I1KG144780109.tif
+  980eb03b5a6847d5af65f5dc3a117420:
+    span:
+      start: 62883
+      end: 62887
+    imgnum: 110
+    reference: I1KG144780110.tif
+  f5e1ad94498b43f1bb7662712e903c63:
+    span:
+      start: 62888
+      end: 63604
+    imgnum: 111
+    reference: I1KG144780111.tif
+  bb6fe2dbcb97405d845bd6ce5de88f42:
+    span:
+      start: 63605
+      end: 64429
+    imgnum: 112
+    reference: I1KG144780112.tif
+  3f9ceaad730e4c4fa8f55932778bb5cc:
+    span:
+      start: 64430
+      end: 65148
+    imgnum: 113
+    reference: I1KG144780113.tif
+  882cb4fe5cfd4d418196c3242ebab730:
+    span:
+      start: 65149
+      end: 65785
+    imgnum: 114
+    reference: I1KG144780114.tif
+  cc00223ef738406997a5a0888f632529:
+    span:
+      start: 65786
+      end: 66639
+    imgnum: 115
+    reference: I1KG144780115.tif
+  87a20e4458d6475c93777612d48bdcef:
+    span:
+      start: 66640
+      end: 66858
+    imgnum: 116
+    reference: I1KG144780116.tif
+  8755348737fe434794afb32a8e411f8c:
+    span:
+      start: 66859
+      end: 67570
+    imgnum: 117
+    reference: I1KG144780117.tif
+  29a46bf323374c39a3b04b1432c0c325:
+    span:
+      start: 67571
+      end: 68562
+    imgnum: 118
+    reference: I1KG144780118.tif
+  2526c98b15564f9facb392917161b942:
+    span:
+      start: 68563
+      end: 68639
+    imgnum: 119
+    reference: I1KG144780119.tif
+  68ecbf83b64e42d38fc3d1c19f0b150b:
+    span:
+      start: 68640
+      end: 69155
+    imgnum: 120
+    reference: I1KG144780120.tif
+  61e04202308d4ac9a6df5869761fe884:
+    span:
+      start: 69156
+      end: 69736
+    imgnum: 121
+    reference: I1KG144780121.tif
+  08fc69e181854edabaaf34484945ec42:
+    span:
+      start: 69737
+      end: 70374
+    imgnum: 122
+    reference: I1KG144780122.tif
+  61ff4682ecb34dddb75409433a970aee:
+    span:
+      start: 70375
+      end: 70897
+    imgnum: 123
+    reference: I1KG144780123.tif
+  3b398070c7fe417cae1930629cbffc9b:
+    span:
+      start: 70898
+      end: 71474
+    imgnum: 124
+    reference: I1KG144780124.tif
+  4a51bd9af3ac45cb8513cefa291292e0:
+    span:
+      start: 71475
+      end: 72152
+    imgnum: 125
+    reference: I1KG144780125.tif
+  3cd3219fff5f42e2b2c8ee8cea07846b:
+    span:
+      start: 72153
+      end: 72734
+    imgnum: 126
+    reference: I1KG144780126.tif
+  bedb67f15bad466dad16a307c8150591:
+    span:
+      start: 72735
+      end: 73265
+    imgnum: 127
+    reference: I1KG144780127.tif
+  562ee33c2ba04cd59f364749516d2cfe:
+    span:
+      start: 73266
+      end: 73798
+    imgnum: 128
+    reference: I1KG144780128.tif
+  3fcca893dbde45d1a7268a4f7e5bcd03:
+    span:
+      start: 73799
+      end: 74308
+    imgnum: 129
+    reference: I1KG144780129.tif
+  74bb0e792f28445c8d6da04f9275d4a9:
+    span:
+      start: 74309
+      end: 74858
+    imgnum: 130
+    reference: I1KG144780130.tif
+  05881be8e0cc4671a9b97910a6d51ae9:
+    span:
+      start: 74859
+      end: 75594
+    imgnum: 131
+    reference: I1KG144780131.tif
+  6d06002bd5fa44979a5049b05bfb8ab3:
+    span:
+      start: 75595
+      end: 76336
+    imgnum: 132
+    reference: I1KG144780132.tif
+  3d3864f1cf094ba2895371490168e1e9:
+    span:
+      start: 76337
+      end: 76944
+    imgnum: 133
+    reference: I1KG144780133.tif
+  5a0ae52ebd1345c89f623768f56ac176:
+    span:
+      start: 76945
+      end: 77522
+    imgnum: 134
+    reference: I1KG144780134.tif
+  5eb45b405a9e47b0bdf3e3bb4b0a2e1a:
+    span:
+      start: 77523
+      end: 78097
+    imgnum: 135
+    reference: I1KG144780135.tif
+  4726cf46a7604be99c28adab7b1ebc3d:
+    span:
+      start: 78098
+      end: 78679
+    imgnum: 136
+    reference: I1KG144780136.tif
+  7f159b75f9124d47a7a717226f572ae0:
+    span:
+      start: 78680
+      end: 79288
+    imgnum: 137
+    reference: I1KG144780137.tif
+  5c7a8ea9f3354645bcaee41e8526da83:
+    span:
+      start: 79289
+      end: 79857
+    imgnum: 138
+    reference: I1KG144780138.tif
+  89aafac4a87e4b3b8df5263335328df7:
+    span:
+      start: 79858
+      end: 80438
+    imgnum: 139
+    reference: I1KG144780139.tif
+  27ce33b102fa4a08a84f9263282cc968:
+    span:
+      start: 80439
+      end: 80729
+    imgnum: 140
+    reference: I1KG144780140.tif
+  23d03623b28141d895458d7e35002f53:
+    span:
+      start: 80730
+      end: 80822
+    imgnum: 141
+    reference: I1KG144780141.tif
+  bac7951e06514686ba9c0d75f69d22b9:
+    span:
+      start: 80823
+      end: 81349
+    imgnum: 142
+    reference: I1KG144780142.tif
+  50a7d4d3900e4de1a55ee1a8fe82d4c0:
+    span:
+      start: 81350
+      end: 82005
+    imgnum: 143
+    reference: I1KG144780143.tif
+  2792600a52004858999b14baebf325ca:
+    span:
+      start: 82006
+      end: 82630
+    imgnum: 144
+    reference: I1KG144780144.tif
+  53d6d8556bc049a7958cf5f8a66d2328:
+    span:
+      start: 82631
+      end: 83311
+    imgnum: 145
+    reference: I1KG144780145.tif
+  de9499458aa54014ad9b0e42f254966e:
+    span:
+      start: 83312
+      end: 83938
+    imgnum: 146
+    reference: I1KG144780146.tif
+  eeb69f5cac7c40b19a0a14fb5bb2b567:
+    span:
+      start: 83939
+      end: 84897
+    imgnum: 147
+    reference: I1KG144780147.tif
+  0f548782767643d192a82fd003450040:
+    span:
+      start: 84898
+      end: 85494
+    imgnum: 148
+    reference: I1KG144780148.tif
+  d58d85d09527421fba0694455d04ecab:
+    span:
+      start: 85495
+      end: 86173
+    imgnum: 149
+    reference: I1KG144780149.tif
+  d77f325e68dd40a589333a46d699d86e:
+    span:
+      start: 86174
+      end: 86829
+    imgnum: 150
+    reference: I1KG144780150.tif
+  811bd0ed4817449f9cb147acf95529d3:
+    span:
+      start: 86830
+      end: 87372
+    imgnum: 151
+    reference: I1KG144780151.tif
+  9c58ade73ed0403e9c94e44b1df9fe9b:
+    span:
+      start: 87373
+      end: 87377
+    imgnum: 152
+    reference: I1KG144780152.tif
+  c264b12b9c40415ebb597525ea99a2b9:
+    span:
+      start: 87378
+      end: 87950
+    imgnum: 153
+    reference: I1KG144780153.tif
+  37539be6d7ab43c490fa51136f6e2171:
+    span:
+      start: 87951
+      end: 88586
+    imgnum: 154
+    reference: I1KG144780154.tif
+  0eea90fc31974edf85c8c875e46da56c:
+    span:
+      start: 88587
+      end: 89124
+    imgnum: 155
+    reference: I1KG144780155.tif
+  8edb99582a78405bb4d16a16a5534933:
+    span:
+      start: 89125
+      end: 89744
+    imgnum: 156
+    reference: I1KG144780156.tif
+  bedf14ab993242698b7e22d342f9d259:
+    span:
+      start: 89745
+      end: 90336
+    imgnum: 157
+    reference: I1KG144780157.tif
+  bb757b35ccb14cf78cf60b9b3a5994cc:
+    span:
+      start: 90337
+      end: 90661
+    imgnum: 158
+    reference: I1KG144780158.tif
+  ac9c1e7a54174589a7c6104ecaa24d52:
+    span:
+      start: 90662
+      end: 91304
+    imgnum: 159
+    reference: I1KG144780159.tif
+  1a35e509f0e545ba81a2323e09c3e8d0:
+    span:
+      start: 91305
+      end: 91990
+    imgnum: 160
+    reference: I1KG144780160.tif
+  cca2cfc5473d49c0bb60cb96ada13829:
+    span:
+      start: 91991
+      end: 92616
+    imgnum: 161
+    reference: I1KG144780161.tif
+  28610d5819c14fd891c4bb4f69f5b30e:
+    span:
+      start: 92617
+      end: 93264
+    imgnum: 162
+    reference: I1KG144780162.tif
+  613f420cfe934c49b92261657f9edb98:
+    span:
+      start: 93265
+      end: 93678
+    imgnum: 163
+    reference: I1KG144780163.tif
+  165482ce330243a9a214423660e783da:
+    span:
+      start: 93679
+      end: 93683
+    imgnum: 164
+    reference: I1KG144780164.tif
+  103eeb0d144a4ee0ba321fa00c18fd64:
+    span:
+      start: 93684
+      end: 93804
+    imgnum: 165
+    reference: I1KG144780165.tif
+  41fb96d86208487b88b166b0ba835085:
+    span:
+      start: 93805
+      end: 94506
+    imgnum: 166
+    reference: I1KG144780166.tif
+  b6204f22586f4feba253d208caf7f460:
+    span:
+      start: 94507
+      end: 94831
+    imgnum: 167
+    reference: I1KG144780167.tif
+  4633c7eca798422f89f7bf655f57daf8:
+    span:
+      start: 94832
+      end: 95374
+    imgnum: 168
+    reference: I1KG144780168.tif
+  c1f75a9101d34eb796fcb9bd61ddd891:
+    span:
+      start: 95375
+      end: 95999
+    imgnum: 169
+    reference: I1KG144780169.tif
+  39d9739495434f99bd8a93b3d95ffc14:
+    span:
+      start: 96000
+      end: 96601
+    imgnum: 170
+    reference: I1KG144780170.tif
+  9f7889da03df42bbbd2c693a0e9be8f7:
+    span:
+      start: 96602
+      end: 97185
+    imgnum: 171
+    reference: I1KG144780171.tif
+  b23ea80dfd474920877110c4bafe682b:
+    span:
+      start: 97186
+      end: 97782
+    imgnum: 172
+    reference: I1KG144780172.tif
+  ea18946670844dd7af9f6b598a4229b5:
+    span:
+      start: 97783
+      end: 98408
+    imgnum: 173
+    reference: I1KG144780173.tif
+  11bb5e3d187042b28700b7251f1f8696:
+    span:
+      start: 98409
+      end: 98778
+    imgnum: 174
+    reference: I1KG144780174.tif
+  9114fe756a964055a88717d9f8e762ae:
+    span:
+      start: 98779
+      end: 98870
+    imgnum: 175
+    reference: I1KG144780175.tif
+  1eb813ce2d7d4b28bcfaba2ad383f52d:
+    span:
+      start: 98871
+      end: 99286
+    imgnum: 176
+    reference: I1KG144780176.tif
+  cdab2cad3ddc4607aa10040f5fbc2ef1:
+    span:
+      start: 99287
+      end: 99705
+    imgnum: 177
+    reference: I1KG144780177.tif
+  4b5c36cabdf0469587249ef83da55cfb:
+    span:
+      start: 99706
+      end: 100303
+    imgnum: 178
+    reference: I1KG144780178.tif
+  c7f87e8c008648598aff373506f32e1e:
+    span:
+      start: 100304
+      end: 100883
+    imgnum: 179
+    reference: I1KG144780179.tif
+  4037957c258249e6aab64df159fd58f4:
+    span:
+      start: 100884
+      end: 101402
+    imgnum: 180
+    reference: I1KG144780180.tif
+  95db408ab9ab4067a6c40eed1708b812:
+    span:
+      start: 101403
+      end: 102011
+    imgnum: 181
+    reference: I1KG144780181.tif
+  42a48fd5ffdc420f880438da668ab64d:
+    span:
+      start: 102012
+      end: 102016
+    imgnum: 182
+    reference: I1KG144780182.tif
+  fd66ebd008a4449dba2c2825755d86bc:
+    span:
+      start: 102017
+      end: 102106
+    imgnum: 183
+    reference: I1KG144780183.tif
+  bd14b741ea6d46cda39ba7af24671547:
+    span:
+      start: 102107
+      end: 102562
+    imgnum: 184
+    reference: I1KG144780184.tif
+  439e811946c34d4b8ebc4f65ac241ef3:
+    span:
+      start: 102563
+      end: 103055
+    imgnum: 185
+    reference: I1KG144780185.tif
+  156115623d3646569479d67b8593147c:
+    span:
+      start: 103056
+      end: 103735
+    imgnum: 186
+    reference: I1KG144780186.tif
+  ec84eee1a8114edabd2cfb8465790d2a:
+    span:
+      start: 103736
+      end: 104324
+    imgnum: 187
+    reference: I1KG144780187.tif
+  be3ec254475f4496bed9ef9f0ce75432:
+    span:
+      start: 104325
+      end: 104912
+    imgnum: 188
+    reference: I1KG144780188.tif
+  502d0a6332904e36a725d145af930d04:
+    span:
+      start: 104913
+      end: 105494
+    imgnum: 189
+    reference: I1KG144780189.tif
+  02bf1363e9a94db5bbccc05f42fecb8a:
+    span:
+      start: 105495
+      end: 106012
+    imgnum: 190
+    reference: I1KG144780190.tif
+  c112dde148264038a99ac520c56d1d73:
+    span:
+      start: 106013
+      end: 106666
+    imgnum: 191
+    reference: I1KG144780191.tif
+  200e80ff6521419f831787b5000b0f96:
+    span:
+      start: 106667
+      end: 107221
+    imgnum: 192
+    reference: I1KG144780192.tif
+  bcf9495d216641658f59fab22e0ffe4f:
+    span:
+      start: 107222
+      end: 107852
+    imgnum: 193
+    reference: I1KG144780193.tif
+  76955aaf877941ec8af1150b88320083:
+    span:
+      start: 107853
+      end: 108171
+    imgnum: 194
+    reference: I1KG144780194.tif
+  7a94d0f946304d388fd8fb2e1aa75cec:
+    span:
+      start: 108172
+      end: 108809
+    imgnum: 195
+    reference: I1KG144780195.tif
+  4fe2b941fe4e4d6a88ceb23a24b876df:
+    span:
+      start: 108810
+      end: 109178
+    imgnum: 196
+    reference: I1KG144780196.tif
+  3ed4ba337199431d98622a7ea465275b:
+    span:
+      start: 109179
+      end: 109784
+    imgnum: 197
+    reference: I1KG144780197.tif
+  3bb63925d43e47a49fc020d731bea6b3:
+    span:
+      start: 109785
+      end: 110325
+    imgnum: 198
+    reference: I1KG144780198.tif
+  31502de3d2c549958541f3e726767c60:
+    span:
+      start: 110326
+      end: 110934
+    imgnum: 199
+    reference: I1KG144780199.tif
+  e6a82746eb4c468c8b9f1c312045b6ee:
+    span:
+      start: 110935
+      end: 111636
+    imgnum: 200
+    reference: I1KG144780200.tif
+  cb0a324142134508aae514eb30a62ac6:
+    span:
+      start: 111637
+      end: 112230
+    imgnum: 201
+    reference: I1KG144780201.tif
+  55ea42ed8af1496bb25964c6269fc149:
+    span:
+      start: 112231
+      end: 112919
+    imgnum: 202
+    reference: I1KG144780202.tif
+  eb92bbe972df4a7191c96360fb6c9c68:
+    span:
+      start: 112920
+      end: 113342
+    imgnum: 203
+    reference: I1KG144780203.tif
+  c0310a0ab5444d74a5170893444723af:
+    span:
+      start: 113343
+      end: 113879
+    imgnum: 204
+    reference: I1KG144780204.tif
+  c45a8e5036e4496b93d21d4c5e5d09e4:
+    span:
+      start: 113880
+      end: 114446
+    imgnum: 205
+    reference: I1KG144780205.tif
+  ebb7ad1cb632477083bf5c0d7124f50e:
+    span:
+      start: 114447
+      end: 115178
+    imgnum: 206
+    reference: I1KG144780206.tif
+  9903cbfd05184d81b8657774549c0a15:
+    span:
+      start: 115179
+      end: 115594
+    imgnum: 207
+    reference: I1KG144780207.tif
+  298b14ae03e241eabf11815f8319f5b4:
+    span:
+      start: 115595
+      end: 115599
+    imgnum: 208
+    reference: I1KG144780208.tif
+  7b9210ab923c41aeb3551a86dc2d31f4:
+    span:
+      start: 115600
+      end: 116170
+    imgnum: 209
+    reference: I1KG144780209.tif
+  407f764a81ff4ea8bf8734c7b916ebda:
+    span:
+      start: 116171
+      end: 116706
+    imgnum: 210
+    reference: I1KG144780210.tif
+  5ce05028a0024e638026ef6e93699916:
+    span:
+      start: 116707
+      end: 117480
+    imgnum: 211
+    reference: I1KG144780211.tif
+  3af46892aa56464c8d35de3fb5081f70:
+    span:
+      start: 117481
+      end: 118097
+    imgnum: 212
+    reference: I1KG144780212.tif
+  fe60a002c6cb4de29c23ed95fb068ec8:
+    span:
+      start: 118098
+      end: 118658
+    imgnum: 213
+    reference: I1KG144780213.tif
+  79ac14527f0a49b2996c1d054ec3c5f4:
+    span:
+      start: 118659
+      end: 118914
+    imgnum: 214
+    reference: I1KG144780214.tif
+  529f1c39404144e49f4c05a8e63fcfba:
+    span:
+      start: 118915
+      end: 119427
+    imgnum: 215
+    reference: I1KG144780215.tif
+  17ac9c5140c74b77aa1fd3d174563238:
+    span:
+      start: 119428
+      end: 119903
+    imgnum: 216
+    reference: I1KG144780216.tif
+  70d8f8d5ef5841f1b75d2e53b0944868:
+    span:
+      start: 119904
+      end: 120571
+    imgnum: 217
+    reference: I1KG144780217.tif
+  00fc33b6171641db9c1f0efc87ebad10:
+    span:
+      start: 120572
+      end: 121220
+    imgnum: 218
+    reference: I1KG144780218.tif
+  c0d61cc0dd1e465ea7cd933284cb205f:
+    span:
+      start: 121221
+      end: 121798
+    imgnum: 219
+    reference: I1KG144780219.tif
+  44a8fc46cca747bc806b13fd9e61b0e8:
+    span:
+      start: 121799
+      end: 122442
+    imgnum: 220
+    reference: I1KG144780220.tif
+  8a4f4906fd514a42a8e8c4c17b313ba6:
+    span:
+      start: 122443
+      end: 123163
+    imgnum: 221
+    reference: I1KG144780221.tif
+  1bf712b288b94d659f388f0287e4ec1f:
+    span:
+      start: 123164
+      end: 123827
+    imgnum: 222
+    reference: I1KG144780222.tif
+  ae33d178df0a42969952179d29618068:
+    span:
+      start: 123828
+      end: 124436
+    imgnum: 223
+    reference: I1KG144780223.tif
+  707689922e21488a9af32a165aea2daf:
+    span:
+      start: 124437
+      end: 124866
+    imgnum: 224
+    reference: I1KG144780224.tif
+  2a8fca465b9d49ebaf491daef07ad4c5:
+    span:
+      start: 124867
+      end: 125531
+    imgnum: 225
+    reference: I1KG144780225.tif
+  aaf468ea3ac8477c8cab971973ce446f:
+    span:
+      start: 125532
+      end: 126290
+    imgnum: 226
+    reference: I1KG144780226.tif
+  9e6aeb63ccef49b68d88f72320744179:
+    span:
+      start: 126291
+      end: 126977
+    imgnum: 227
+    reference: I1KG144780227.tif
+  fb0cdcc6b1a74e98a56455cba87b4e48:
+    span:
+      start: 126978
+      end: 127108
+    imgnum: 228
+    reference: I1KG144780228.tif
+  1ae6cd343bd040329924d4e57f59670c:
+    span:
+      start: 127109
+      end: 127186
+    imgnum: 229
+    reference: I1KG144780229.tif
+  9c60aecf2a214f86bcc323ab2d75d2a9:
+    span:
+      start: 127187
+      end: 127630
+    imgnum: 230
+    reference: I1KG144780230.tif
+  6ac4af66cb074a08adc4875f53f02bcc:
+    span:
+      start: 127631
+      end: 128068
+    imgnum: 231
+    reference: I1KG144780231.tif
+  ebf78ddcc61a476b96547d3170ea7b3b:
+    span:
+      start: 128069
+      end: 128706
+    imgnum: 232
+    reference: I1KG144780232.tif
+  8d670b778caa4dbba10adcfb5b13a0a7:
+    span:
+      start: 128707
+      end: 129348
+    imgnum: 233
+    reference: I1KG144780233.tif
+  90fd083144344a66a98df38375545dcf:
+    span:
+      start: 129349
+      end: 130128
+    imgnum: 234
+    reference: I1KG144780234.tif
+  d45e0aca36734d93ad277b5172b3f7c8:
+    span:
+      start: 130129
+      end: 130759
+    imgnum: 235
+    reference: I1KG144780235.tif
+  da2a6d738b95492e9dc6c5b2937da1c3:
+    span:
+      start: 130760
+      end: 131444
+    imgnum: 236
+    reference: I1KG144780236.tif
+  930d40f65f83475999a738d6abac3983:
+    span:
+      start: 131445
+      end: 132058
+    imgnum: 237
+    reference: I1KG144780237.tif
+  9d0687f2d851447a91ddbf9352890b7c:
+    span:
+      start: 132059
+      end: 132694
+    imgnum: 238
+    reference: I1KG144780238.tif
+  4e93cb340c3d4909a69d4e424c046987:
+    span:
+      start: 132695
+      end: 133328
+    imgnum: 239
+    reference: I1KG144780239.tif
+  9f29723aba3c4801a47d3b664f3b7eca:
+    span:
+      start: 133329
+      end: 133906
+    imgnum: 240
+    reference: I1KG144780240.tif
+  a88dc7c94a33401e8ba4a2df623feaf7:
+    span:
+      start: 133907
+      end: 134594
+    imgnum: 241
+    reference: I1KG144780241.tif
+  93a1a528d56446ed9ea0e9f0692d1c1c:
+    span:
+      start: 134595
+      end: 135252
+    imgnum: 242
+    reference: I1KG144780242.tif
+  26d372d765674da2889eb03112a71313:
+    span:
+      start: 135253
+      end: 135827
+    imgnum: 243
+    reference: I1KG144780243.tif
+  d9668cfb7d3f4fa2a9139bdf19f6662d:
+    span:
+      start: 135828
+      end: 135832
+    imgnum: 244
+    reference: I1KG144780244.tif
+  a9721a539de04a7c8915823367549090:
+    span:
+      start: 135833
+      end: 136464
+    imgnum: 245
+    reference: I1KG144780245.tif
+  143d8d5c50664ebba0a424860cc88ee2:
+    span:
+      start: 136465
+      end: 136641
+    imgnum: 246
+    reference: I1KG144780246.tif
+  094fe6ce63cd40bc9660ae4a07f52f75:
+    span:
+      start: 136642
+      end: 136717
+    imgnum: 247
+    reference: I1KG144780247.tif
+  a2b984a0d6d044f7803b15bd3c8bc5cc:
+    span:
+      start: 136718
+      end: 137141
+    imgnum: 248
+    reference: I1KG144780248.tif
+  c19fd89143bf47b7ae97944502a7900e:
+    span:
+      start: 137142
+      end: 137694
+    imgnum: 249
+    reference: I1KG144780249.tif
+  e23070fcacf74e0891d56dca8509544b:
+    span:
+      start: 137695
+      end: 138224
+    imgnum: 250
+    reference: I1KG144780250.tif
+  54f8094ab89140c0a275d413ecc6777e:
+    span:
+      start: 138225
+      end: 138857
+    imgnum: 251
+    reference: I1KG144780251.tif
+  cd3e96f185a24de194fefe5343c179c7:
+    span:
+      start: 138858
+      end: 139453
+    imgnum: 252
+    reference: I1KG144780252.tif
+  322ebe4ba0324916bf2a5103ea8dd046:
+    span:
+      start: 139454
+      end: 139962
+    imgnum: 253
+    reference: I1KG144780253.tif
+  49da7ad5807146ea86f5a711fc4c084e:
+    span:
+      start: 139963
+      end: 140565
+    imgnum: 254
+    reference: I1KG144780254.tif
+  8e8f72fd78dc4039957ebc7fc5f1c879:
+    span:
+      start: 140566
+      end: 141157
+    imgnum: 255
+    reference: I1KG144780255.tif
+  8b710943a93d40ec9d5906f6f40cfedb:
+    span:
+      start: 141158
+      end: 141637
+    imgnum: 256
+    reference: I1KG144780256.tif
+  d80b1f896d9946738b73af60049e8587:
+    span:
+      start: 141638
+      end: 142231
+    imgnum: 257
+    reference: I1KG144780257.tif
+  34585259c24b4aecbfe39ae5c3faceae:
+    span:
+      start: 142232
+      end: 142719
+    imgnum: 258
+    reference: I1KG144780258.tif
+  98bbbebd367d49f790bff3d7c27dac75:
+    span:
+      start: 142720
+      end: 143284
+    imgnum: 259
+    reference: I1KG144780259.tif
+  11de4441176b4baeb1c6b019cf241eef:
+    span:
+      start: 143285
+      end: 143621
+    imgnum: 260
+    reference: I1KG144780260.tif
+  4dc40d95ef4c40caa0816bc75df300fd:
+    span:
+      start: 143622
+      end: 144171
+    imgnum: 261
+    reference: I1KG144780261.tif
+  c4ce3bda992747fcaf4383ebb4b6a7c8:
+    span:
+      start: 144172
+      end: 144676
+    imgnum: 262
+    reference: I1KG144780262.tif
+  d7e25b95c8f0429892ef628edc2384ff:
+    span:
+      start: 144677
+      end: 145240
+    imgnum: 263
+    reference: I1KG144780263.tif
+  f35583fdb1bd4f2b91a86a8d7450256c:
+    span:
+      start: 145241
+      end: 145739
+    imgnum: 264
+    reference: I1KG144780264.tif
+  d3d9e1e2947a43ba8fdd45fac26a9c16:
+    span:
+      start: 145740
+      end: 146271
+    imgnum: 265
+    reference: I1KG144780265.tif
+  e43d3c6c52754f4a81fd6c331a22a7d1:
+    span:
+      start: 146272
+      end: 147148
+    imgnum: 266
+    reference: I1KG144780266.tif
+  8b9bba9c3190484ead4d86b1a94c8c38:
+    span:
+      start: 147149
+      end: 147773
+    imgnum: 267
+    reference: I1KG144780267.tif
+  17f20e43597147888b6fbaa3d50b0b36:
+    span:
+      start: 147774
+      end: 148399
+    imgnum: 268
+    reference: I1KG144780268.tif
+  88b5d20caaaa43e0a299285a6e42aad5:
+    span:
+      start: 148400
+      end: 149001
+    imgnum: 269
+    reference: I1KG144780269.tif
+  63e5ee10e7834911ba3092686ccee988:
+    span:
+      start: 149002
+      end: 149627
+    imgnum: 270
+    reference: I1KG144780270.tif
+  49174a407b414937b37c8fd9f048e5d3:
+    span:
+      start: 149628
+      end: 150199
+    imgnum: 271
+    reference: I1KG144780271.tif
+  ffb6d5602a074c11b76bd496b4b263ea:
+    span:
+      start: 150200
+      end: 150828
+    imgnum: 272
+    reference: I1KG144780272.tif
+  c1ab7b6f61be45ba8a3fe97ed02535d6:
+    span:
+      start: 150829
+      end: 151439
+    imgnum: 273
+    reference: I1KG144780273.tif
+  436238ad318d42438c5300f7bb596dc6:
+    span:
+      start: 151440
+      end: 152009
+    imgnum: 274
+    reference: I1KG144780274.tif
+  149c7f97e98b4390834a27be97ee326e:
+    span:
+      start: 152010
+      end: 152103
+    imgnum: 275
+    reference: I1KG144780275.tif
+  a46bc42585c04052add4d2dab52a2fab:
+    span:
+      start: 152104
+      end: 152609
+    imgnum: 276
+    reference: I1KG144780276.tif
+  fb146fe239604f3a8f1031d9fb7d95e3:
+    span:
+      start: 152610
+      end: 153311
+    imgnum: 277
+    reference: I1KG144780277.tif
+  626912b7524d4779b859445fd9b23d72:
+    span:
+      start: 153312
+      end: 153973
+    imgnum: 278
+    reference: I1KG144780278.tif
+  06bd004465724be6811feee70fa77ffa:
+    span:
+      start: 153974
+      end: 154588
+    imgnum: 279
+    reference: I1KG144780279.tif
+  951ea7d0d56848108882961291a7b79b:
+    span:
+      start: 154589
+      end: 155148
+    imgnum: 280
+    reference: I1KG144780280.tif
+  08a1b05078f448ec84f4e9e3b7370360:
+    span:
+      start: 155149
+      end: 155720
+    imgnum: 281
+    reference: I1KG144780281.tif
+  6a9f5a40477b4e1c9c077b1a89bcadf2:
+    span:
+      start: 155721
+      end: 156012
+    imgnum: 282
+    reference: I1KG144780282.tif
+  6f56ecc4e79c4d609f8581fce674e21f:
+    span:
+      start: 156013
+      end: 156121
+    imgnum: 283
+    reference: I1KG144780283.tif
+  b87dc4382b57452aa666d7e97ed91183:
+    span:
+      start: 156122
+      end: 156628
+    imgnum: 284
+    reference: I1KG144780284.tif
+  33d3904f62c8478eb3f0505c61326509:
+    span:
+      start: 156629
+      end: 157138
+    imgnum: 285
+    reference: I1KG144780285.tif
+  fe9b3784655c4414a2cfb57e607827fd:
+    span:
+      start: 157139
+      end: 157813
+    imgnum: 286
+    reference: I1KG144780286.tif
+  d51a3ed3704447bfb751cb42c5357fa7:
+    span:
+      start: 157814
+      end: 158516
+    imgnum: 287
+    reference: I1KG144780287.tif
+  e79047ab2e594cf4965e1510b0965b82:
+    span:
+      start: 158517
+      end: 159165
+    imgnum: 288
+    reference: I1KG144780288.tif
+  7d1202938b6445f589db50af7e99d866:
+    span:
+      start: 159166
+      end: 159801
+    imgnum: 289
+    reference: I1KG144780289.tif
+  3ceb59bb8c64491e8318b236340764f3:
+    span:
+      start: 159802
+      end: 160420
+    imgnum: 290
+    reference: I1KG144780290.tif
+  36ec68ccc94c41b1aad6ec2c215cfe46:
+    span:
+      start: 160421
+      end: 161038
+    imgnum: 291
+    reference: I1KG144780291.tif
+  41573c3d63ec4c14a1d59ad3e3fab0c4:
+    span:
+      start: 161039
+      end: 161465
+    imgnum: 292
+    reference: I1KG144780292.tif
+  68b3523458624293948bf62cd94f2051:
+    span:
+      start: 161466
+      end: 162024
+    imgnum: 293
+    reference: I1KG144780293.tif
+  ff38503b72fe4980af1243e2cfccd231:
+    span:
+      start: 162025
+      end: 162569
+    imgnum: 294
+    reference: I1KG144780294.tif
+  43c672a663c9480cbbb3dea26035935d:
+    span:
+      start: 162570
+      end: 163171
+    imgnum: 295
+    reference: I1KG144780295.tif
+  82a947dcf02f46adbcbf989e9989cf38:
+    span:
+      start: 163172
+      end: 163784
+    imgnum: 296
+    reference: I1KG144780296.tif
+  eff8cbdb01c84c4fa88b9e8fca108659:
+    span:
+      start: 163785
+      end: 164344
+    imgnum: 297
+    reference: I1KG144780297.tif
+  192d57e95b8549bd8a4bb2e863630183:
+    span:
+      start: 164345
+      end: 164878
+    imgnum: 298
+    reference: I1KG144780298.tif
+  d507ea2221544a3fbf5f8a592658245c:
+    span:
+      start: 164879
+      end: 165611
+    imgnum: 299
+    reference: I1KG144780299.tif
+  01f8ec97ecfa43deb5a193b336931231:
+    span:
+      start: 165612
+      end: 166269
+    imgnum: 300
+    reference: I1KG144780300.tif
+  e2d387c2641c4740a991e0d7349fa76f:
+    span:
+      start: 166270
+      end: 166959
+    imgnum: 301
+    reference: I1KG144780301.tif
+  52bcdf9a3d66428c8b3b9c996e49d0d5:
+    span:
+      start: 166960
+      end: 167621
+    imgnum: 302
+    reference: I1KG144780302.tif
+  cfc7ee2cd9e34729ba0af52927c18265:
+    span:
+      start: 167622
+      end: 168300
+    imgnum: 303
+    reference: I1KG144780303.tif
+  a028e930d2cd4d34b4ce3d703ca6270b:
+    span:
+      start: 168301
+      end: 169001
+    imgnum: 304
+    reference: I1KG144780304.tif
+  3c56713c34564900b0355fe48cd97532:
+    span:
+      start: 169002
+      end: 169747
+    imgnum: 305
+    reference: I1KG144780305.tif
+  772943b0756e45f2b71d0534eb799572:
+    span:
+      start: 169748
+      end: 170474
+    imgnum: 306
+    reference: I1KG144780306.tif
+  22f463c42823499d87e502779da8f109:
+    span:
+      start: 170475
+      end: 171377
+    imgnum: 307
+    reference: I1KG144780307.tif
+  365466935ff647938e6bfb869ca78d23:
+    span:
+      start: 171378
+      end: 171998
+    imgnum: 308
+    reference: I1KG144780308.tif
+  017466582c68456785937e9fd79c1d6a:
+    span:
+      start: 171999
+      end: 172593
+    imgnum: 309
+    reference: I1KG144780309.tif
+  9925c92a24cd491baf5999b0067249f3:
+    span:
+      start: 172594
+      end: 172598
+    imgnum: 310
+    reference: I1KG144780310.tif
+  fffeec038e5045f89a4d204e5a6a4b2a:
+    span:
+      start: 172599
+      end: 173184
+    imgnum: 311
+    reference: I1KG144780311.tif
+  6298c2eb4a4049ccbb733b3073b93ba0:
+    span:
+      start: 173185
+      end: 173872
+    imgnum: 312
+    reference: I1KG144780312.tif
+  f3539c5567a04508ae7622de9bc8a623:
+    span:
+      start: 173873
+      end: 174534
+    imgnum: 313
+    reference: I1KG144780313.tif
+  8a3a4fe2397a4794996910a2e0291f5f:
+    span:
+      start: 174535
+      end: 175095
+    imgnum: 314
+    reference: I1KG144780314.tif
+  5e28caa8967f4502902dd8d0781a673b:
+    span:
+      start: 175096
+      end: 175806
+    imgnum: 315
+    reference: I1KG144780315.tif
+  bca9ff31257d424ea5efff38cfdbf09c:
+    span:
+      start: 175807
+      end: 176687
+    imgnum: 316
+    reference: I1KG144780316.tif
+  d0b8a7fcfe814f34bbb868c25221189f:
+    span:
+      start: 176688
+      end: 177298
+    imgnum: 317
+    reference: I1KG144780317.tif
+  e5ce63de8d28472ab222cb85051c2395:
+    span:
+      start: 177299
+      end: 177929
+    imgnum: 318
+    reference: I1KG144780318.tif
+  e8418b7562304e58bdb2b025e0dc36dc:
+    span:
+      start: 177930
+      end: 178514
+    imgnum: 319
+    reference: I1KG144780319.tif
+  7f0ca03e7f2046779e12f5db0d396409:
+    span:
+      start: 178515
+      end: 179082
+    imgnum: 320
+    reference: I1KG144780320.tif
+  b163f8427db24004bf075ad5dc949401:
+    span:
+      start: 179083
+      end: 179650
+    imgnum: 321
+    reference: I1KG144780321.tif
+  e295adbd74204e05a5fd6865a10ff692:
+    span:
+      start: 179651
+      end: 180174
+    imgnum: 322
+    reference: I1KG144780322.tif
+  d01fd44b994d4a6c91d2242d0f0be847:
+    span:
+      start: 180175
+      end: 180725
+    imgnum: 323
+    reference: I1KG144780323.tif
+  503a7b86771646c0814258aadc3a6808:
+    span:
+      start: 180726
+      end: 181256
+    imgnum: 324
+    reference: I1KG144780324.tif
+  cbae0bd3c6724cd0a792ce05b04e07ce:
+    span:
+      start: 181257
+      end: 181804
+    imgnum: 325
+    reference: I1KG144780325.tif
+  df96f1ecbc7541c7ba1d6381c09c84db:
+    span:
+      start: 181805
+      end: 182259
+    imgnum: 326
+    reference: I1KG144780326.tif
+  cc05b52fa2324ed0886e940cb754ad3a:
+    span:
+      start: 182260
+      end: 182806
+    imgnum: 327
+    reference: I1KG144780327.tif
+  a53ceff69534435c8c5e8ff73174ce85:
+    span:
+      start: 182807
+      end: 183344
+    imgnum: 328
+    reference: I1KG144780328.tif
+  b2a8995fe03c4928a7ef95a218ee18a6:
+    span:
+      start: 183345
+      end: 183928
+    imgnum: 329
+    reference: I1KG144780329.tif
+  917bf342737a45b3964a0baa2f5ffbfc:
+    span:
+      start: 183929
+      end: 184465
+    imgnum: 330
+    reference: I1KG144780330.tif
+  eea0389ebfd340c2835befe0cd06757d:
+    span:
+      start: 184466
+      end: 185061
+    imgnum: 331
+    reference: I1KG144780331.tif
+  c2c6290992fb4ef7bf4986b8eacff284:
+    span:
+      start: 185062
+      end: 185686
+    imgnum: 332
+    reference: I1KG144780332.tif
+  10787f9a2e0d4310935d8ae0a637d879:
+    span:
+      start: 185687
+      end: 186440
+    imgnum: 333
+    reference: I1KG144780333.tif
+  ade8cc1cf6de497c965df7c47146db4e:
+    span:
+      start: 186441
+      end: 187086
+    imgnum: 334
+    reference: I1KG144780334.tif
+  b4a8958f8d6c492890fbbe7f7a2e3330:
+    span:
+      start: 187087
+      end: 187704
+    imgnum: 335
+    reference: I1KG144780335.tif
+  9465b253cc3e40b886f2f2b5a55cfce8:
+    span:
+      start: 187705
+      end: 188351
+    imgnum: 336
+    reference: I1KG144780336.tif
+  247f3d3371d84a0cb88cfe646f3ea11b:
+    span:
+      start: 188352
+      end: 188964
+    imgnum: 337
+    reference: I1KG144780337.tif
+  470986557a4740a1bba745b78e7c480e:
+    span:
+      start: 188965
+      end: 189606
+    imgnum: 338
+    reference: I1KG144780338.tif
+  b48164766e89419b80d3dcc2f1eafb3e:
+    span:
+      start: 189607
+      end: 190273
+    imgnum: 339
+    reference: I1KG144780339.tif
+  6e895656da7542c1bcd62f2069ca62dd:
+    span:
+      start: 190274
+      end: 190935
+    imgnum: 340
+    reference: I1KG144780340.tif
+  8273de38f9c04215b437596e5f4bbdfc:
+    span:
+      start: 190936
+      end: 191607
+    imgnum: 341
+    reference: I1KG144780341.tif
+  0c336e5bec17457fb259fe1674e8bd71:
+    span:
+      start: 191608
+      end: 192219
+    imgnum: 342
+    reference: I1KG144780342.tif
+  98f2b56c633e4161b58d6c4532851b12:
+    span:
+      start: 192220
+      end: 192894
+    imgnum: 343
+    reference: I1KG144780343.tif
+  eb367bc70e174ad398f15b3bdd9b9e7e:
+    span:
+      start: 192895
+      end: 193539
+    imgnum: 344
+    reference: I1KG144780344.tif
+  80f89040b0ce47bc847ada184eee5490:
+    span:
+      start: 193540
+      end: 194252
+    imgnum: 345
+    reference: I1KG144780345.tif
+  b88eca1230af4fb9aeb583148146e1b9:
+    span:
+      start: 194253
+      end: 194259
+    imgnum: 346
+    reference: I1KG144780346.tif
+  e0e026d1137542e98b059383470b0e46:
+    span:
+      start: 194260
+      end: 194944
+    imgnum: 347
+    reference: I1KG144780347.tif
+  d124d34b59b54451944a304b61a9cfe5:
+    span:
+      start: 194945
+      end: 195592
+    imgnum: 348
+    reference: I1KG144780348.tif
+  af44d56895a14688b363c243f238617e:
+    span:
+      start: 195593
+      end: 196396
+    imgnum: 349
+    reference: I1KG144780349.tif
+  b6842de85a8744fa8d560efeec9a292e:
+    span:
+      start: 196397
+      end: 196519
+    imgnum: 350
+    reference: I1KG144780350.tif
+  134d8781cc274fcfba0159ce642f98ed:
+    span:
+      start: 196520
+      end: 197103
+    imgnum: 351
+    reference: I1KG144780351.tif
+  18038672f2c840cf8ddf50af94e7f525:
+    span:
+      start: 197104
+      end: 197330
+    imgnum: 352
+    reference: I1KG144780352.tif
+  f75a71f8b9ce47479996362eb8396375:
+    span:
+      start: 197331
+      end: 197971
+    imgnum: 353
+    reference: I1KG144780353.tif
+  714f7c841bc7418d98d9a804491cea76:
+    span:
+      start: 197972
+      end: 198576
+    imgnum: 354
+    reference: I1KG144780354.tif
+  179ffdea939d4f2881379429a073deb0:
+    span:
+      start: 198577
+      end: 199266
+    imgnum: 355
+    reference: I1KG144780355.tif
+  b2eedcb874a74562a8176ada6d7d9db9:
+    span:
+      start: 199267
+      end: 199906
+    imgnum: 356
+    reference: I1KG144780356.tif
+  354be3809a8c4cb69de612d4147e1c1b:
+    span:
+      start: 199907
+      end: 200661
+    imgnum: 357
+    reference: I1KG144780357.tif
+  4b0694db540444a69df054ea0041aeb9:
+    span:
+      start: 200662
+      end: 201292
+    imgnum: 358
+    reference: I1KG144780358.tif
+  315cfe592408454c81761795de0a867e:
+    span:
+      start: 201293
+      end: 201905
+    imgnum: 359
+    reference: I1KG144780359.tif
+  06ec28c2261141d6b221cc1bee439fcc:
+    span:
+      start: 201906
+      end: 202540
+    imgnum: 360
+    reference: I1KG144780360.tif
+  ec8adbb93c224b419d589fde1b428657:
+    span:
+      start: 202541
+      end: 203188
+    imgnum: 361
+    reference: I1KG144780361.tif
+  92e70a0290314cf795773b4a3bd1b81a:
+    span:
+      start: 203189
+      end: 203821
+    imgnum: 362
+    reference: I1KG144780362.tif
+  1cfb08a44ed84fcea1ec13ca78a1d699:
+    span:
+      start: 203822
+      end: 204575
+    imgnum: 363
+    reference: I1KG144780363.tif
+  fe1947e682ca4c61a894ca3ec9b5a6a6:
+    span:
+      start: 204576
+      end: 205199
+    imgnum: 364
+    reference: I1KG144780364.tif
+  820f7412889c412dbcf001f7c0733cbb:
+    span:
+      start: 205200
+      end: 205903
+    imgnum: 365
+    reference: I1KG144780365.tif
+  04ecfd6eb9e846caa124e586490671b6:
+    span:
+      start: 205904
+      end: 206536
+    imgnum: 366
+    reference: I1KG144780366.tif
+  2a2fa7b037c347b1a80e92e48aa77bbb:
+    span:
+      start: 206537
+      end: 207204
+    imgnum: 367
+    reference: I1KG144780367.tif
+  a620247e6c154404b3c68159cbeef299:
+    span:
+      start: 207205
+      end: 207798
+    imgnum: 368
+    reference: I1KG144780368.tif
+  a76ee86025104eeda3b35b5f7debe31f:
+    span:
+      start: 207799
+      end: 208415
+    imgnum: 369
+    reference: I1KG144780369.tif
+  9046429b9944420aa2bd31fea6adeaf9:
+    span:
+      start: 208416
+      end: 209086
+    imgnum: 370
+    reference: I1KG144780370.tif
+  1fe86311fa9c4bf3ba3f50e68fe7572c:
+    span:
+      start: 209087
+      end: 209933
+    imgnum: 371
+    reference: I1KG144780371.tif
+  f25279bc6ca04f398393964e0f7a3fe2:
+    span:
+      start: 209934
+      end: 210624
+    imgnum: 372
+    reference: I1KG144780372.tif
+  43af2d638b64400c9917b21a9ca87499:
+    span:
+      start: 210625
+      end: 211390
+    imgnum: 373
+    reference: I1KG144780373.tif
+  f602e80b9c744a4eb841f802e64a17d9:
+    span:
+      start: 211391
+      end: 212088
+    imgnum: 374
+    reference: I1KG144780374.tif
+  568276a2d3f64d07961a6f1e2b493664:
+    span:
+      start: 212089
+      end: 212879
+    imgnum: 375
+    reference: I1KG144780375.tif
+  6d0016dbfd4a4c3199a1d21ccee743e4:
+    span:
+      start: 212880
+      end: 213571
+    imgnum: 376
+    reference: I1KG144780376.tif
+  8e00763d306f48f19634ad23c9279f26:
+    span:
+      start: 213572
+      end: 214442
+    imgnum: 377
+    reference: I1KG144780377.tif
+  28a5cba620cb451387643c3359f5acbe:
+    span:
+      start: 214443
+      end: 214447
+    imgnum: 378
+    reference: I1KG144780378.tif
+  2d7d363ebcfb48459a3eb147292b0a8a:
+    span:
+      start: 214448
+      end: 215092
+    imgnum: 379
+    reference: I1KG144780379.tif
+  1f74493117f847ce95049c4e7c49e7c2:
+    span:
+      start: 215093
+      end: 215721
+    imgnum: 380
+    reference: I1KG144780380.tif
+  013a249105a840bba02cebf0f33bbacd:
+    span:
+      start: 215722
+      end: 216349
+    imgnum: 381
+    reference: I1KG144780381.tif
+  0cbecf24c32c4d2ba9636c9720839e4c:
+    span:
+      start: 216350
+      end: 216753
+    imgnum: 382
+    reference: I1KG144780382.tif
+  84868e2fc6d2436eac85f231b4c1ca02:
+    span:
+      start: 216754
+      end: 216835
+    imgnum: 383
+    reference: I1KG144780383.tif
+  61b9f76618d04dec8df4a8d6569a1908:
+    span:
+      start: 216836
+      end: 217238
+    imgnum: 384
+    reference: I1KG144780384.tif
+  08747916800240078c0f112ab9000d80:
+    span:
+      start: 217239
+      end: 217732
+    imgnum: 385
+    reference: I1KG144780385.tif
+  f375a3a9ce4444b38b07f5543685c2b2:
+    span:
+      start: 217733
+      end: 218340
+    imgnum: 386
+    reference: I1KG144780386.tif
+  ec97b110f0454fe7b5ffb61893ce4d06:
+    span:
+      start: 218341
+      end: 219071
+    imgnum: 387
+    reference: I1KG144780387.tif
+  c2f41cde8f49439a8fb81a5108cf8e76:
+    span:
+      start: 219072
+      end: 219637
+    imgnum: 388
+    reference: I1KG144780388.tif
+  4c61deeecaeb4c7e96e06382eb1e1419:
+    span:
+      start: 219638
+      end: 220235
+    imgnum: 389
+    reference: I1KG144780389.tif
+  1a13819175a04dc883df12fdded02a04:
+    span:
+      start: 220236
+      end: 220837
+    imgnum: 390
+    reference: I1KG144780390.tif
+  41c01239e6f040e29a95e3006149aa4d:
+    span:
+      start: 220838
+      end: 221470
+    imgnum: 391
+    reference: I1KG144780391.tif
+  5d37ba6ac794448b8ef9cbace631d7e2:
+    span:
+      start: 221471
+      end: 222263
+    imgnum: 392
+    reference: I1KG144780392.tif
+  3c0fc05f90f84790923f6c310527ba6f:
+    span:
+      start: 222264
+      end: 222397
+    imgnum: 393
+    reference: I1KG144780393.tif
+  6a3351083bce4c5c9f8f89e1785eb508:
+    span:
+      start: 222398
+      end: 222824
+    imgnum: 394
+    reference: I1KG144780394.tif
+  4c6af5e6188547a7a94a01984a6c1ad8:
+    span:
+      start: 222825
+      end: 223331
+    imgnum: 395
+    reference: I1KG144780395.tif
+  0333b6484bc748bc96a53bec397bf9e3:
+    span:
+      start: 223332
+      end: 223888
+    imgnum: 396
+    reference: I1KG144780396.tif
+  a9d546fa760445418225afa5946fcd92:
+    span:
+      start: 223889
+      end: 224518
+    imgnum: 397
+    reference: I1KG144780397.tif
+  484acde3557d41ff993757cbce6c6516:
+    span:
+      start: 224519
+      end: 225019
+    imgnum: 398
+    reference: I1KG144780398.tif
+  48d1511646c04410b78f455a4cd28d0a:
+    span:
+      start: 225020
+      end: 225708
+    imgnum: 399
+    reference: I1KG144780399.tif
+  655a140c491646078fb32ff95009d1c3:
+    span:
+      start: 225709
+      end: 226357
+    imgnum: 400
+    reference: I1KG144780400.tif
+  a78071f3d53b47479d9d7b74d2952c73:
+    span:
+      start: 226358
+      end: 227111
+    imgnum: 401
+    reference: I1KG144780401.tif
+  382c68cdf0d34980954764b6da86ed09:
+    span:
+      start: 227112
+      end: 227899
+    imgnum: 402
+    reference: I1KG144780402.tif
+  5b390261e5ae48d7ab7924582b75426f:
+    span:
+      start: 227900
+      end: 228522
+    imgnum: 403
+    reference: I1KG144780403.tif
+  6d3d655e46204999b5a5668892fe438d:
+    span:
+      start: 228523
+      end: 229144
+    imgnum: 404
+    reference: I1KG144780404.tif
+  8adfc7ee24d7460884d22e8756e3b2d8:
+    span:
+      start: 229145
+      end: 229888
+    imgnum: 405
+    reference: I1KG144780405.tif
+  2d11f563545f492b9bf17cba59760486:
+    span:
+      start: 229889
+      end: 230509
+    imgnum: 406
+    reference: I1KG144780406.tif
+  1c51f9085ed041ea9119bd34ecddda00:
+    span:
+      start: 230510
+      end: 230888
+    imgnum: 407
+    reference: I1KG144780407.tif
+  ba2972b43dda438a950685967c133ef4:
+    span:
+      start: 230889
+      end: 230893
+    imgnum: 408
+    reference: I1KG144780408.tif
+  0c5ea8d93af841af8a76e4d4f5244dd7:
+    span:
+      start: 230894
+      end: 231019
+    imgnum: 409
+    reference: I1KG144780409.tif
+  62aba8d8198b4fe0bffc234ac586f37e:
+    span:
+      start: 231020
+      end: 231760
+    imgnum: 410
+    reference: I1KG144780410.tif
+  36006b30a16046b4880c7651b5fc08fa:
+    span:
+      start: 231761
+      end: 232282
+    imgnum: 411
+    reference: I1KG144780411.tif
+  31c45141fb9e4722ae591460d35d1f38:
+    span:
+      start: 232283
+      end: 232940
+    imgnum: 412
+    reference: I1KG144780412.tif
+  9eb4d447fa334fa080eb8c87401edd07:
+    span:
+      start: 232941
+      end: 233591
+    imgnum: 413
+    reference: I1KG144780413.tif
+  fae834d1af4d42e99faf31f15ee221cd:
+    span:
+      start: 233592
+      end: 234194
+    imgnum: 414
+    reference: I1KG144780414.tif
+  a37c38fd267341a7affd3f166987e58e:
+    span:
+      start: 234195
+      end: 234843
+    imgnum: 415
+    reference: I1KG144780415.tif
+  1286214df6d54f64b1f5c0e5195f7e51:
+    span:
+      start: 234844
+      end: 235423
+    imgnum: 416
+    reference: I1KG144780416.tif
+  d5e83d86b7d542e78c7bb0340e1c338f:
+    span:
+      start: 235424
+      end: 236039
+    imgnum: 417
+    reference: I1KG144780417.tif
+  d14bb177910c4c05bbc61564adb6ca6d:
+    span:
+      start: 236040
+      end: 236638
+    imgnum: 418
+    reference: I1KG144780418.tif
+  43e1fb6025054a8dbe4920c611c0ed47:
+    span:
+      start: 236639
+      end: 236685
+    imgnum: 419
+    reference: I1KG144780419.tif
+  54f1e5a8cb3b4bf99fd1a058f9892fb9:
+    span:
+      start: 236686
+      end: 237231
+    imgnum: 420
+    reference: I1KG144780420.tif
+  8c1629158efc412a81476a61242a8143:
+    span:
+      start: 237232
+      end: 237741
+    imgnum: 421
+    reference: I1KG144780421.tif
+  991d91082b0a4836ae30ee3be10dabb1:
+    span:
+      start: 237742
+      end: 238385
+    imgnum: 422
+    reference: I1KG144780422.tif
+  c6992d7eeeb7441f808d51098d92f18a:
+    span:
+      start: 238386
+      end: 239045
+    imgnum: 423
+    reference: I1KG144780423.tif
+  d5ac934dd45140d482ecb634185cc8e2:
+    span:
+      start: 239046
+      end: 239150
+    imgnum: 424
+    reference: I1KG144780424.tif
+  c0394bcd75364631a50cce270c63f6ef:
+    span:
+      start: 239151
+      end: 239223
+    imgnum: 425
+    reference: I1KG144780425.tif
+  913cbdd49c4641789689bc22da50a7d8:
+    span:
+      start: 239224
+      end: 239724
+    imgnum: 426
+    reference: I1KG144780426.tif
+  481bf93c550742e9b7b3ddd45eb66757:
+    span:
+      start: 239725
+      end: 240291
+    imgnum: 427
+    reference: I1KG144780427.tif
+  1c5360605d254d1f99d9638354d98eff:
+    span:
+      start: 240292
+      end: 240903
+    imgnum: 428
+    reference: I1KG144780428.tif
+  83a1bd212a394e91bb10fee5ec69f53f:
+    span:
+      start: 240904
+      end: 241621
+    imgnum: 429
+    reference: I1KG144780429.tif
+  5261489c20e74028a41161f64c4d8658:
+    span:
+      start: 241622
+      end: 242221
+    imgnum: 430
+    reference: I1KG144780430.tif
+  8cfe9df9bf984b0e9136342f69c5e8ce:
+    span:
+      start: 242222
+      end: 243019
+    imgnum: 431
+    reference: I1KG144780431.tif
+  c1e58ac330f046858c78b8017e5bb213:
+    span:
+      start: 243020
+      end: 243680
+    imgnum: 433
+    reference: I1KG144780433.tif
+  68d6054d335a424d990858bda6912ea9:
+    span:
+      start: 243681
+      end: 244314
+    imgnum: 434
+    reference: I1KG144780434.tif
+  a659315178dc4268b8f3da20f6314da6:
+    span:
+      start: 244315
+      end: 244897
+    imgnum: 435
+    reference: I1KG144780435.tif
+  fecfd3787328406bb192d77a3790c187:
+    span:
+      start: 244898
+      end: 245447
+    imgnum: 436
+    reference: I1KG144780436.tif
+  1f2c302706bd422e90a09b4a6c35ae10:
+    span:
+      start: 245448
+      end: 246121
+    imgnum: 437
+    reference: I1KG144780437.tif
+  ac98fc53b592433a957eee50a21a30e6:
+    span:
+      start: 246122
+      end: 246684
+    imgnum: 438
+    reference: I1KG144780438.tif
+  433409d4f599469799b694be0ffb1427:
+    span:
+      start: 246685
+      end: 247339
+    imgnum: 439
+    reference: I1KG144780439.tif
+  47653ff75f0c44b5bf35a6c0569a6db3:
+    span:
+      start: 247340
+      end: 247945
+    imgnum: 440
+    reference: I1KG144780440.tif
+  26c008d5c5e6471fb7eb323697e44841:
+    span:
+      start: 247946
+      end: 248505
+    imgnum: 441
+    reference: I1KG144780441.tif
+  f5d4a37200934db2b4f69207efbcd7b9:
+    span:
+      start: 248506
+      end: 248509
+    imgnum: 442
+    reference: I1KG144780442.tif
+  fbfae183bd9e404292db8b3802abcc2a:
+    span:
+      start: 248510
+      end: 248624
+    imgnum: 443
+    reference: I1KG144780443.tif
+  29c6ca3c2391441aa44d5fa544ae2ec5:
+    span:
+      start: 248625
+      end: 249696
+    imgnum: 444
+    reference: I1KG144780444.tif
+  e0c34aca04be4719bbaaed69e9c5f4a9:
+    span:
+      start: 249697
+      end: 250525
+    imgnum: 445
+    reference: I1KG144780445.tif
+  289a4ff2aead45779240fcc7a6e4c78c:
+    span:
+      start: 250526
+      end: 251250
+    imgnum: 446
+    reference: I1KG144780446.tif
+  41aaa9701df3402b88c956495617151f:
+    span:
+      start: 251251
+      end: 252273
+    imgnum: 447
+    reference: I1KG144780447.tif
+  cd5e6548e0384a3c8124e2219a9468c6:
+    span:
+      start: 252274
+      end: 253158
+    imgnum: 448
+    reference: I1KG144780448.tif
+  7445b6dbdc9343e1bab92ef7344b5adc:
+    span:
+      start: 253159
+      end: 253380
+    imgnum: 449
+    reference: I1KG144780449.tif
+  e2ccedd3139342979d3c2a0875e62450:
+    span:
+      start: 253381
+      end: 253384
+    imgnum: 450
+    reference: I1KG144780450.tif
+  cf30ef801b624cde8caeac570a267d1f:
+    span:
+      start: 253385
+      end: 254056
+    imgnum: 451
+    reference: I1KG144780451.tif
+  1087821512cc431c968fc4477da5dfa9:
+    span:
+      start: 254057
+      end: 254688
+    imgnum: 452
+    reference: I1KG144780452.tif
+  7a0ff524b42c4d229473aad85d58101c:
+    span:
+      start: 254689
+      end: 255411
+    imgnum: 453
+    reference: I1KG144780453.tif
+  56a10b1111d745579050181bddcd3b42:
+    span:
+      start: 255412
+      end: 256157
+    imgnum: 454
+    reference: I1KG144780454.tif
+  e38e97714f824fcdbb79d52e4a712071:
+    span:
+      start: 256158
+      end: 256939
+    imgnum: 455
+    reference: I1KG144780455.tif
+  c710453c48db424e9bb6d5b40bdaaa50:
+    span:
+      start: 256940
+      end: 257727
+    imgnum: 456
+    reference: I1KG144780456.tif
+  7a0d43ed182f46c48d37cff5b93f222c:
+    span:
+      start: 257728
+      end: 258408
+    imgnum: 457
+    reference: I1KG144780457.tif
+  c0297c28f1ad4eb487d641d319b03ff9:
+    span:
+      start: 258409
+      end: 258898
+    imgnum: 458
+    reference: I1KG144780458.tif
+  67a9e84a3ca64c6cb824ae10ea2360f8:
+    span:
+      start: 258899
+      end: 259422
+    imgnum: 459
+    reference: I1KG144780459.tif
+  2cc2625882324a9896c76c886811a032:
+    span:
+      start: 259423
+      end: 259864
+    imgnum: 460
+    reference: I1KG144780460.tif
+  8087f63dd688482d94f58d95a95d7f3b:
+    span:
+      start: 259865
+      end: 260530
+    imgnum: 461
+    reference: I1KG144780461.tif
+  7e51dc48b53f4c50960936e022e4fd42:
+    span:
+      start: 260531
+      end: 260944
+    imgnum: 462
+    reference: I1KG144780462.tif
+  543e2d0d7d2b48e2a39115e747d9e9af:
+    span:
+      start: 260945
+      end: 261505
+    imgnum: 463
+    reference: I1KG144780463.tif
+  6d9cde34887740a699eb56a576779591:
+    span:
+      start: 261506
+      end: 261815
+    imgnum: 464
+    reference: I1KG144780464.tif
+  79b6e3fd78124c8d8df58895ff598070:
+    span:
+      start: 261816
+      end: 261892
+    imgnum: 465
+    reference: I1KG144780465.tif
+  0a1e3f4648c8461caac671521f6328f5:
+    span:
+      start: 261893
+      end: 262450
+    imgnum: 466
+    reference: I1KG144780466.tif
+  dcebf18a56b843b3a62bdd6a030bdc34:
+    span:
+      start: 262451
+      end: 263206
+    imgnum: 467
+    reference: I1KG144780467.tif
+  66f3ceeeac4d468794ed0333bfad59fc:
+    span:
+      start: 263207
+      end: 264058
+    imgnum: 468
+    reference: I1KG144780468.tif
+  44a8dfc5777740b4ac113ccfaa225997:
+    span:
+      start: 264059
+      end: 265046
+    imgnum: 469
+    reference: I1KG144780469.tif
+  a1a33ce0752c43aa8bcad37453a3cb1e:
+    span:
+      start: 265047
+      end: 265980
+    imgnum: 470
+    reference: I1KG144780470.tif
+  d73663e98abe4db6aeb998dd4c6ee01e:
+    span:
+      start: 265981
+      end: 266841
+    imgnum: 471
+    reference: I1KG144780471.tif
+  7865f98df24e41d2ad5f011062667bca:
+    span:
+      start: 266842
+      end: 267557
+    imgnum: 472
+    reference: I1KG144780472.tif
+  1a047680a0ca40ca874bfc980680938a:
+    span:
+      start: 267558
+      end: 268342
+    imgnum: 473
+    reference: I1KG144780473.tif
+  13437313833f481c94fc68a78fc3438e:
+    span:
+      start: 268343
+      end: 269055
+    imgnum: 474
+    reference: I1KG144780474.tif
+  ac94449169a9496f8ae402cd98091d15:
+    span:
+      start: 269056
+      end: 269804
+    imgnum: 475
+    reference: I1KG144780475.tif
+  4918d92a949d4b9dbc9df7a053920e27:
+    span:
+      start: 269805
+      end: 270306
+    imgnum: 476
+    reference: I1KG144780476.tif
+  662567e70afb4044bae87b5b1a1d0717:
+    span:
+      start: 270307
+      end: 271207
+    imgnum: 477
+    reference: I1KG144780477.tif
+  84e085f1fe8948b1a142f4a1e200916e:
+    span:
+      start: 271208
+      end: 271851
+    imgnum: 478
+    reference: I1KG144780478.tif
+  8fd41edb4ea447a192783f1d713173d0:
+    span:
+      start: 271852
+      end: 272623
+    imgnum: 479
+    reference: I1KG144780479.tif
+  ff57a299f1bf4965b0bb1841cceebd9a:
+    span:
+      start: 272624
+      end: 273316
+    imgnum: 480
+    reference: I1KG144780480.tif
+  15ab783dfd3e47b4ade955a2be9c0887:
+    span:
+      start: 273317
+      end: 274041
+    imgnum: 481
+    reference: I1KG144780481.tif
+  e0b5eeded67842d8832032393f8db169:
+    span:
+      start: 274042
+      end: 274662
+    imgnum: 482
+    reference: I1KG144780482.tif
+  e769e0492ca94392ae8669de4dc6ba84:
+    span:
+      start: 274663
+      end: 274740
+    imgnum: 483
+    reference: I1KG144780483.tif
+  d638e443b00b43deab216a9623fb335f:
+    span:
+      start: 274741
+      end: 275417
+    imgnum: 484
+    reference: I1KG144780484.tif
+  be65779c6d124b7582645dc0d3f636cb:
+    span:
+      start: 275418
+      end: 276222
+    imgnum: 485
+    reference: I1KG144780485.tif
+  80b72833ad3a4fa8aa40016e9da3ff15:
+    span:
+      start: 276223
+      end: 276966
+    imgnum: 486
+    reference: I1KG144780486.tif
+  1e0cf157cc3a406392c708ff7659f5f5:
+    span:
+      start: 276967
+      end: 277756
+    imgnum: 487
+    reference: I1KG144780487.tif
+  399228fa2e294184bc336a4b84c92ec2:
+    span:
+      start: 277757
+      end: 278550
+    imgnum: 488
+    reference: I1KG144780488.tif
+  c3f6f88bea9946a9a453b11d985c5c76:
+    span:
+      start: 278551
+      end: 279343
+    imgnum: 489
+    reference: I1KG144780489.tif
+  44991ad4c8ca4731b4dcc579fc92b69d:
+    span:
+      start: 279344
+      end: 279964
+    imgnum: 490
+    reference: I1KG144780490.tif
+  ff12dabc0067466c8d3653d7ec01887a:
+    span:
+      start: 279965
+      end: 280741
+    imgnum: 491
+    reference: I1KG144780491.tif
+  f53e6e7f42544ff5a1ede41c0a237fb4:
+    span:
+      start: 280742
+      end: 281436
+    imgnum: 492
+    reference: I1KG144780492.tif
+  b1801c625f8a4db89eb99f7bb4a0ff5d:
+    span:
+      start: 281437
+      end: 282038
+    imgnum: 493
+    reference: I1KG144780493.tif
+  019d843c5376421d92b28e8da717d088:
+    span:
+      start: 282039
+      end: 282676
+    imgnum: 494
+    reference: I1KG144780494.tif
+  1807df3d8f5d4a3997eeab87f811c93c:
+    span:
+      start: 282677
+      end: 283342
+    imgnum: 495
+    reference: I1KG144780495.tif
+  6a61373ac182491382931f75f5146f0a:
+    span:
+      start: 283343
+      end: 284054
+    imgnum: 496
+    reference: I1KG144780496.tif
+  76c298e1dd9f484eacc9cd4e09ccdf3f:
+    span:
+      start: 284055
+      end: 284719
+    imgnum: 497
+    reference: I1KG144780497.tif
+  befa7251232647b4940be65ba3bd956b:
+    span:
+      start: 284720
+      end: 285423
+    imgnum: 498
+    reference: I1KG144780498.tif
+  6a468b82daab42ab990547b8fa499d70:
+    span:
+      start: 285424
+      end: 286197
+    imgnum: 499
+    reference: I1KG144780499.tif
+  afecf6e38c21429b85f24b52efb3a4c9:
+    span:
+      start: 286198
+      end: 286894
+    imgnum: 500
+    reference: I1KG144780500.tif
+  fb5736f6a15d489f909d09535c11b3f4:
+    span:
+      start: 286895
+      end: 287580
+    imgnum: 501
+    reference: I1KG144780501.tif
+  9de7ea766ef04e12b0a744c510c6c390:
+    span:
+      start: 287581
+      end: 288247
+    imgnum: 502
+    reference: I1KG144780502.tif
+  7eefdcd3bd944186ba81a6f71161f804:
+    span:
+      start: 288248
+      end: 288899
+    imgnum: 503
+    reference: I1KG144780503.tif
+  b9c456c779bb4df88075f1ceb46cd219:
+    span:
+      start: 288900
+      end: 289546
+    imgnum: 504
+    reference: I1KG144780504.tif
+  052b3f0b9b59415a9505599c51b7ebef:
+    span:
+      start: 289547
+      end: 290200
+    imgnum: 505
+    reference: I1KG144780505.tif
+  9096654f592044f0acc7be124d480cab:
+    span:
+      start: 290201
+      end: 290818
+    imgnum: 506
+    reference: I1KG144780506.tif
+  1599d5c8cb0d4fb7b621f0311b2313f9:
+    span:
+      start: 290819
+      end: 291422
+    imgnum: 507
+    reference: I1KG144780507.tif
+  57adb71e49fd4459a342dcdd0ba972ae:
+    span:
+      start: 291423
+      end: 292023
+    imgnum: 508
+    reference: I1KG144780508.tif
+  74f57eef7a574433aa8f31e2071d65f4:
+    span:
+      start: 292024
+      end: 292637
+    imgnum: 509
+    reference: I1KG144780509.tif
+  9e25a3000ca543e8ab7ca0043ab4233d:
+    span:
+      start: 292638
+      end: 293199
+    imgnum: 510
+    reference: I1KG144780510.tif
+  98959b2915924497932ec5c9b960ac28:
+    span:
+      start: 293200
+      end: 293803
+    imgnum: 511
+    reference: I1KG144780511.tif
+  f7231f415b2841ed8bb0726029156bb2:
+    span:
+      start: 293804
+      end: 294466
+    imgnum: 512
+    reference: I1KG144780512.tif
+  505db918e8a44e7c82755212ff3c25fd:
+    span:
+      start: 294467
+      end: 295076
+    imgnum: 513
+    reference: I1KG144780513.tif
+  39a7f4d664254dbfab584071cf69d01e:
+    span:
+      start: 295077
+      end: 295732
+    imgnum: 514
+    reference: I1KG144780514.tif
+  bff922fa01df4406b404a7c1fc51ed43:
+    span:
+      start: 295733
+      end: 296496
+    imgnum: 515
+    reference: I1KG144780515.tif
+  d9989618c5044cac8d67138613f1a4c8:
+    span:
+      start: 296497
+      end: 297107
+    imgnum: 516
+    reference: I1KG144780516.tif
+  053aebbcbccb4eceae91b95f6fd1ae3a:
+    span:
+      start: 297108
+      end: 297690
+    imgnum: 517
+    reference: I1KG144780517.tif
+  f631d268de794c4da826a06c1faea137:
+    span:
+      start: 297691
+      end: 298234
+    imgnum: 518
+    reference: I1KG144780518.tif
+  0cfc26628de44be4a42ffbb1c8e1aaee:
+    span:
+      start: 298235
+      end: 298872
+    imgnum: 519
+    reference: I1KG144780519.tif
+  b14ad40e276542d2a58e7c237e27b14b:
+    span:
+      start: 298873
+      end: 299444
+    imgnum: 520
+    reference: I1KG144780520.tif
+  90afe40fb1724a11b9e8e465142d99a5:
+    span:
+      start: 299445
+      end: 300028
+    imgnum: 521
+    reference: I1KG144780521.tif
+  142894af24de452a89338c79505278db:
+    span:
+      start: 300029
+      end: 300723
+    imgnum: 522
+    reference: I1KG144780522.tif
+  7c72468a61c64ea7b8ce2c71a172b24e:
+    span:
+      start: 300724
+      end: 301379
+    imgnum: 523
+    reference: I1KG144780523.tif
+  6532aa196ed44f8183e8517548bc1a51:
+    span:
+      start: 301380
+      end: 302038
+    imgnum: 524
+    reference: I1KG144780524.tif
+  7c37c5acccfb4aecad5dc98d77178850:
+    span:
+      start: 302039
+      end: 302679
+    imgnum: 525
+    reference: I1KG144780525.tif
+  0dd368ab3f69427f8c07439436b846bd:
+    span:
+      start: 302680
+      end: 303334
+    imgnum: 526
+    reference: I1KG144780526.tif
+  e8762dea17bb49a3854afc7c361e637a:
+    span:
+      start: 303335
+      end: 303967
+    imgnum: 527
+    reference: I1KG144780527.tif
+  0605b78a12ad4bb7b249d81df0ba0311:
+    span:
+      start: 303968
+      end: 304613
+    imgnum: 528
+    reference: I1KG144780528.tif
+  4f669231dc164c469d64397ace57ce3a:
+    span:
+      start: 304614
+      end: 305307
+    imgnum: 529
+    reference: I1KG144780529.tif
+  e4c0aed61727456c82a3458725b580b4:
+    span:
+      start: 305308
+      end: 305733
+    imgnum: 530
+    reference: I1KG144780530.tif
+  d982c43d896645c1a5e4e3c03f737a71:
+    span:
+      start: 305734
+      end: 305826
+    imgnum: 531
+    reference: I1KG144780531.tif
+  ca4fb42436144759b931f6ed641ec2f5:
+    span:
+      start: 305827
+      end: 306318
+    imgnum: 532
+    reference: I1KG144780532.tif
+  1b2b30d68f4d46a4ba61a9aa3b76f53d:
+    span:
+      start: 306319
+      end: 307077
+    imgnum: 533
+    reference: I1KG144780533.tif
+  9df791c08cff45f08f058515462c3f45:
+    span:
+      start: 307078
+      end: 307714
+    imgnum: 534
+    reference: I1KG144780534.tif
+  4f0cfa3aa11f4ab6ac058de3edb54e2c:
+    span:
+      start: 307715
+      end: 308457
+    imgnum: 535
+    reference: I1KG144780535.tif
+  ce8dbb02c647493dbc7064ff93d487d1:
+    span:
+      start: 308458
+      end: 309253
+    imgnum: 536
+    reference: I1KG144780536.tif
+  fbbce1c383c340bea93b0d3fb79b87d6:
+    span:
+      start: 309254
+      end: 309954
+    imgnum: 537
+    reference: I1KG144780537.tif
+  fb38aeceaa014d83a5d77c142e079250:
+    span:
+      start: 309955
+      end: 310668
+    imgnum: 538
+    reference: I1KG144780538.tif
+  e3688d4e60e54b2683d0cdd6fd05c55a:
+    span:
+      start: 310669
+      end: 311482
+    imgnum: 539
+    reference: I1KG144780539.tif
+  fcf2436c81fa48d386df352ddfb39058:
+    span:
+      start: 311483
+      end: 312205
+    imgnum: 540
+    reference: I1KG144780540.tif
+  f5d894a40c4341969bc6312daf5cab74:
+    span:
+      start: 312206
+      end: 312932
+    imgnum: 541
+    reference: I1KG144780541.tif
+  97eef8cc8dfa4a70a495fc5dc1453cf8:
+    span:
+      start: 312933
+      end: 313644
+    imgnum: 542
+    reference: I1KG144780542.tif
+  de3e7b2d79bb472faa1dbdb126911d9e:
+    span:
+      start: 313645
+      end: 314416
+    imgnum: 543
+    reference: I1KG144780543.tif
+  2a19dad6ff834053b3ef585f73000278:
+    span:
+      start: 314417
+      end: 315188
+    imgnum: 544
+    reference: I1KG144780544.tif
+  c755ff55e02f4d97974d39057eed580a:
+    span:
+      start: 315189
+      end: 316009
+    imgnum: 545
+    reference: I1KG144780545.tif
+  437a31ebccf445a3b13e04b882c6e341:
+    span:
+      start: 316010
+      end: 316764
+    imgnum: 546
+    reference: I1KG144780546.tif
+  bb9e8358f6804230bb497c8aa1f139fa:
+    span:
+      start: 316765
+      end: 317461
+    imgnum: 547
+    reference: I1KG144780547.tif
+  41c0ea0a29934e6ca96e998dddc94678:
+    span:
+      start: 317462
+      end: 318049
+    imgnum: 548
+    reference: I1KG144780548.tif
+  86211f25e84e4b01ad7cd34f5a51a1a2:
+    span:
+      start: 318050
+      end: 318740
+    imgnum: 549
+    reference: I1KG144780549.tif
+  a31f8460f5674ca383c0541ed4685fc7:
+    span:
+      start: 318741
+      end: 319431
+    imgnum: 550
+    reference: I1KG144780550.tif
+  201da7778e2545adb337e58357054e8f:
+    span:
+      start: 319432
+      end: 320104
+    imgnum: 551
+    reference: I1KG144780551.tif
+  1d93b0e477c3465ab0f748aebf41fe11:
+    span:
+      start: 320105
+      end: 320766
+    imgnum: 552
+    reference: I1KG144780552.tif
+  1559e4f402ce488e94602704f1c3cf24:
+    span:
+      start: 320767
+      end: 321474
+    imgnum: 553
+    reference: I1KG144780553.tif
+  3ccae0dce5404063a83c669fb12e23e6:
+    span:
+      start: 321475
+      end: 322185
+    imgnum: 554
+    reference: I1KG144780554.tif
+  c5c58c32db8343c592ba7a3ef16867e0:
+    span:
+      start: 322186
+      end: 322948
+    imgnum: 555
+    reference: I1KG144780555.tif
+  c165723a5a1748b48bfc16f0a1e56307:
+    span:
+      start: 322949
+      end: 323619
+    imgnum: 556
+    reference: I1KG144780556.tif
+  8b636bd1d4f24f44856460b3fb3fe3b9:
+    span:
+      start: 323620
+      end: 324362
+    imgnum: 557
+    reference: I1KG144780557.tif
+  bca93eb7a8c346148a30603a1b18dc12:
+    span:
+      start: 324363
+      end: 324989
+    imgnum: 558
+    reference: I1KG144780558.tif
+  ef727ef6c87245ea8ba8be1e3440b57f:
+    span:
+      start: 324990
+      end: 325176
+    imgnum: 559
+    reference: I1KG144780559.tif
+  f092a41e340d45a4bb951abbc8d8add4:
+    span:
+      start: 325177
+      end: 325183
+    imgnum: 560
+    reference: I1KG144780560.tif
